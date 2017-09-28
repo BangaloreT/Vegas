@@ -1,3 +1,9 @@
 This is file1 contents
+<<<<<<< Upstream, based on origin/master
 
 File 1 developer 1 & 2 changes
+=======
+Dev 1 has made changes
+
+After Lunch
+>>>>>>> f8978d9 Befoire Lunch
